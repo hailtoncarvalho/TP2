@@ -7,4 +7,8 @@ Como executar:
 1. Abra o terminal na pasta src;
 2. Digite java binPackingProblem "nomeDaInstancia.txt" "TempoMáximo"
 
-OBSERVAÇÕES: O arquivo solução gerado é salvo na pasta src, com o nome "nomeDaInstancia.Sol"
+OBSERVAÇÕES: 
+
+  - O arquivo solução gerado é salvo na pasta src, com o nome "nomeDaInstancia.Sol"
+  - Os arquivos usados para teste estão na pasta src;
+  - O parâmetro de tempo é considerado em Milissegundos.
